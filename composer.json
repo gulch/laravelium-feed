@@ -18,14 +18,14 @@
 		"wiki": "https://github.com/Laravelium/laravel-feed/wiki"
 	},
 	"require": {
-        "php": ">=7.3",
-        "illuminate/support": "^8.0",
-        "illuminate/filesystem": "^8.0"
+    "php": "^8.0",
+    "illuminate/support": "^9.0",
+    "illuminate/filesystem": "^9.0"
 	},
 	"require-dev": {
-        "laravel/framework": "^8.0",
-        "phpunit/phpunit": "^9.3",
-		"orchestra/testbench-core": "^6.0"
+    "laravel/framework": "^9.0",
+    "phpunit/phpunit": "^9.5",
+		"orchestra/testbench-core": "^7.1"
 	},
 	"autoload": {
 		"psr-0": {

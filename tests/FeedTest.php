@@ -25,11 +25,11 @@ class FeedTest extends TestCase
         parent::setUp();
 
         $config = [
-      'feed.use_cache' => false,
-      'feed.cache_key' => 'Laravel.feed.',
-      'feed.cache_duration' => 3600,
-      'feed.testing' => true
-    ];
+          'feed.use_cache' => false,
+          'feed.cache_key' => 'Laravel.feed.',
+          'feed.cache_duration' => 3600,
+          'feed.testing' => true
+        ];
 
         config($config);
 
