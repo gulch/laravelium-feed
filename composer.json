@@ -1,5 +1,5 @@
 {
-	"name": "laravelium/feed",
+	"name": "gulch/laravelium-feed",
 	"description": "Laravelium Feed package for Laravel.",
 	"homepage": "https://laravelium.com",
 	"keywords": ["laravelium", "laravel", "feed", "generator", "rss", "atom"],
